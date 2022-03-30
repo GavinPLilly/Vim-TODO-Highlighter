@@ -9,6 +9,7 @@ The coloring is dependent on the type of bullet used to prefix a task.
 \>> This results in ORANGE text \
 \>>> This results in RED text \
 \>>>> This results in RED text with a WHITE background \
+\[done] This results in GREEN text
 
 To use this project add ftdetect/todo.vim to the corresponding ftdetect directory on your computer and add syntax/todo.vim to the corresponding syntax directory on your computer. \
 I use Neovim so these directories are located at ~/.config/nvim/ftdetect and ~/.config/nvim/syntax \
